@@ -1,7 +1,3 @@
 # flutter_weather_app
-
-Flutter weather app with weatherapi.com
-
-Change your API key with the YOUR_API_KEY in constants.dart
-
+Creating Flutter App to get Real Time Data of Weather of any city using API
 
